@@ -1,10 +1,9 @@
-![]( https://static.vecteezy.com/system/resources/thumbnails/006/607/167/small/github-icon-web-icon-set-icons-collection-simple-illustration-free-vector.jpg))
+ 
 
-### Hi there 👋, Hello, world! I'm Shovan Prita Paul
+###  Hello, world👋! I'm Shovan Prita Paul.
 
 
-My GitHub repository reflects my diverse expertise in CSE, showcasing projects not only in Java but also in C++, HTML, CSS, and JavaScript. From algorithmic mastery to front-end design, explore the breadth of my skills and passion for software development.
-
+Welcome to my GitHub, a hub showcasing my journey as a computer science and engineering student. Dive into my projects spanning Java, C, C++, and the web trio of HTML, CSS, and JavaScript. It's a snapshot of my evolving skills and endless curiosity in the world of technology.
 
 Skills: JAVA / C / C++ / JS / HTML / CSS
 
