@@ -7,7 +7,7 @@ Welcome to my GitHub, a hub showcasing my journey as a computer science and engi
 
 Skills: JAVA / C / C++ / JS / HTML / CSS
 
-- 🔭 I’m currently studying at  Hajee Mohammad Danesh Science and Technology University 
+- 🔭 I’m currently studying at  Hajee Mohammad Danesh Science and Technology University (HSTU)
 - 💬 Ask me about any Programming/coding/tech related stuff 
 
 
