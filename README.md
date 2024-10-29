@@ -5,7 +5,7 @@
 
 Welcome to my GitHub, a hub showcasing my journey as a computer science and engineering student. Dive into my projects spanning Java, C, C++, and the web trio of HTML, CSS, and JavaScript. It's a snapshot of my evolving skills and endless curiosity in the world of technology.
 
-Skills: Python/JAVA/C/C++/JS/HTML/CSS/php
+Skills: Python / JAVA / C / C++ / JS / HTML / CSS / php
 
 - 🔭 I’m currently studying at  Hajee Mohammad Danesh Science and Technology University (HSTU)
 - 💬 Ask me about any Programming/coding/tech related stuff 
