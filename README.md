@@ -15,5 +15,4 @@ Skills: Python / JAVA / C / C++ / JS / HTML / CSS / php
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShovanPritaPaul&show_icons=true)  
 
