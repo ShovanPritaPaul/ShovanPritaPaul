@@ -3,7 +3,7 @@
 ###  Hello, world👋! I'm Shovan Prita Paul.
 
 
-Welcome to my GitHub, a hub showcasing my journey as a computer science and engineering student. Dive into my projects spanning Java, C, C++, and the web trio of HTML, CSS, and JavaScript. It's a snapshot of my evolving skills and endless curiosity in the world of technology.
+Welcome to my GitHub, a hub showcasing my journey as a computer science and engineering student. Dive into my projects spanning Java,python, C, C++, and the web trio of HTML, CSS, and . It's a snapshot of my evolving skills and endless curiosity in the world of technology.
 
 Skills: Python / JAVA / C / C++ / JS / HTML / CSS / php
 
